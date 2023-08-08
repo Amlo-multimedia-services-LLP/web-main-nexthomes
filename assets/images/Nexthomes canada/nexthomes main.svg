@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ce8282;
+      }
+
+      .cls-2 {
+        fill: #231f20;
+        font-family: ArtifaktElement-Regular, 'Artifakt Element';
+        font-size: 57.38px;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #f89939;
+      }
+
+      .cls-5 {
+        font-family: MyriadPro-Semibold, 'Myriad Pro';
+        font-size: 64.86px;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(165.53 761.63)"><tspan x="0" y="0">NEXT HOMES CANA</tspan><tspan class="cls-3" x="522.7" y="0">D</tspan><tspan x="560.86" y="0">A INC</tspan></text>
+  <g>
+    <polygon class="cls-4" points="418.62 445.05 417.12 502 417.12 694.43 344.54 694.43 226.19 562.96 226.19 694.43 172.59 694.43 172.59 499.4 240.32 499.4 363.52 636.43 363.52 499.4 379.16 499.4 379.16 468.13 418.62 445.05"/>
+    <polygon class="cls-1" points="477.88 349.49 474.81 351.29 474.81 351.07 477.88 349.49"/>
+    <polygon class="cls-4" points="567.49 380.65 564.52 379.73 496.4 354.14 496.4 694.43 474.81 694.43 474.81 479.21 435.74 455.19 435.74 374.24 474.81 351.29 477.88 349.49 496.4 339.89 567.49 380.65"/>
+    <polygon class="cls-4" points="793.81 500.88 793.81 694.43 738.52 694.43 738.52 615.71 609.55 615.71 609.55 694.43 531.96 694.43 533.17 435.94 577.92 407.74 577.92 408.01 577.94 407.74 621.22 435.59 619.39 434.91 577.92 416.86 577.92 500.88 609.55 500.88 609.55 569.74 738.52 569.74 738.52 500.88 793.81 500.88"/>
+  </g>
+  <text class="cls-5" transform="translate(797.69 690.28)"><tspan x="0" y="0">.ca</tspan></text>
+</svg>
